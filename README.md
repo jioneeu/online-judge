@@ -2,19 +2,20 @@
 
 이 저장소는 [programmers](https://programmers.co.kr/learn/challenges) 코딩테스트 연습 문제들의 C++ 기반 풀이 코드를 담고 있습니다.  
 
-- [구현 & 시뮬레이션 (Implementation & Simulation)](#구현--시뮬레이션-implementation--simulation)
-- [문자열 (String Manipulation)](#문자열-string-manipulation)
-- [비트마스크 (Bit mask)](#비트마스크-bit-mask)
-- [브루트포스 (Bruteforce)](#브루트포스-bruteforce)
-- [수학 (Math)](#수학-math)
-- [스택 (Stack)](#스택-stack)
-- [정렬 (Sorting)](#정렬-sorting)
-- [탐색 (Searches)](#탐색-searches)
-- [탐욕 알고리즘 (Greedy)](#탐욕-알고리즘-greedy)
-- [해시 (Hash)](#해시-hash)
+- [구현 & 시뮬레이션 (Implementation & Simulation)](#impsim)
+- [문자열 (String Manipulation)](#strmanip)
+- [비트마스크 (Bit mask)](#bit-mask)
+- [브루트포스 (Bruteforce)](#bruteforce)
+- [수학 (Math)](#math)
+- [스택 (Stack)](#stack)
+- [정렬 (Sorting)](#sorting)
+- [큐 (Queue)](#queue)
+- [탐색 (Searches)](#searches)
+- [탐욕 알고리즘 (Greedy)](#greedy)
+- [해시 (Hash)](#hash)
  
  > 직접 문제를 풀고 주제별/패러다임별 분류를 하고 있습니다. 잘못된 부분이 있다면 재분류 한 다음 PR 해주시길 부탁드립니다. 
- 
+
 <br>
 
 `1` - Level 1 문제 <br>
@@ -75,8 +76,8 @@
 <a id="bruteforce"></a>
 ## 브루트포스 (Bruteforce)
 가능한 모든 경우를 탐색한 뒤 최적을 찾아내는 방법.
-- `1` [두 개 뽑아서 더하기 (월간 코드 챌린지 시즌1)](https://github.com/j2ieu/cp/blob/programmers/level1/68644.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/68644)
 - `1` [모의고사](https://github.com/j2ieu/cp/blob/programmers/level1/42840.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/42840)
+- `1` [두 개 뽑아서 더하기 (월간 코드 챌린지 시즌1)](https://github.com/j2ieu/cp/blob/programmers/level1/68644.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/68644)
 
 <br>
 
@@ -109,6 +110,13 @@
 
 <br>
 
+<a id="queue"></a>
+## 큐 (Queue)
+- `2` [프린터](https://github.com/j2ieu/cp/blob/programmers/level2/42587.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/42587)
+  
+
+<br>
+
 <a id="search"></a>
 ## 탐색 (Searches)
 - `1` [서울에서 김서방 찾기](https://github.com/j2ieu/cp/blob/programmers/level1/12919.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12919)
@@ -125,3 +133,4 @@
 <a id="hash"></a>
 ## 해시 (Hash)
 - `1` [완주하지 못한 선수](https://github.com/j2ieu/cp/blob/programmers/level1/42576.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/42576)
+- `2` [전화번호 목록](https://github.com/j2ieu/cp/blob/programmers/level2/42577.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/42577)
