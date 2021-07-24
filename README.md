@@ -25,6 +25,7 @@ This repository contains C++ solutions to various [leetcode](https://leetcode.co
 - `1` [997. Find the town judge](https://github.com/j2ieu/cp/tree/leetcode/easy/997/997.md) [🔗](https://leetcode.com/problems/find-the-town-judge/)
 
 ## Hash <a id="hash"></a>
+- `1` [1. Two Sum](https://github.com/j2ieu/cp/tree/leetcode/easy/1.md) [🔗](https://leetcode.com/problems/two-sum)
 - `1` [705. Design HashSet](https://github.com/j2ieu/cp/tree/leetcode/easy/705.md) [🔗](https://leetcode.com/problems/design-hashset)
 
 ## LinkedList <a id="linkedlist"></a>
